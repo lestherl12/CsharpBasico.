@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\entradasalida\bin\Debug\net6.0\entradasalida.exe
+C:\Users\Windows 10\Desktop\progra I\entradasalida\bin\Debug\net6.0\entradasalida.deps.json
+C:\Users\Windows 10\Desktop\progra I\entradasalida\bin\Debug\net6.0\entradasalida.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\entradasalida\bin\Debug\net6.0\entradasalida.dll
+C:\Users\Windows 10\Desktop\progra I\entradasalida\bin\Debug\net6.0\entradasalida.pdb
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.dll
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\refint\entradasalida.dll
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.pdb
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\entradasalida.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\entradasalida\obj\Debug\net6.0\ref\entradasalida.dll
