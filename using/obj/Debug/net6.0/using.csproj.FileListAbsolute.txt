@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\using\bin\Debug\net6.0\using.exe
+C:\Users\Windows 10\Desktop\progra I\using\bin\Debug\net6.0\using.deps.json
+C:\Users\Windows 10\Desktop\progra I\using\bin\Debug\net6.0\using.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\using\bin\Debug\net6.0\using.dll
+C:\Users\Windows 10\Desktop\progra I\using\bin\Debug\net6.0\using.pdb
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.dll
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\refint\using.dll
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.pdb
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\using.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\using\obj\Debug\net6.0\ref\using.dll

@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\bin\Debug\net6.0\tiposdedatos.exe
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\bin\Debug\net6.0\tiposdedatos.deps.json
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\bin\Debug\net6.0\tiposdedatos.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\bin\Debug\net6.0\tiposdedatos.dll
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\bin\Debug\net6.0\tiposdedatos.pdb
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.dll
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\refint\tiposdedatos.dll
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.pdb
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\tiposdedatos.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\tiposdedatos\obj\Debug\net6.0\ref\tiposdedatos.dll

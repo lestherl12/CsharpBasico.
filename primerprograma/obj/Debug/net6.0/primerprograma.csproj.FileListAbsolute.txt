@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\progra I\primerprograma\bin\Debug\net6.0\primerprograma.exe
+C:\Users\Windows 10\Desktop\progra I\primerprograma\bin\Debug\net6.0\primerprograma.deps.json
+C:\Users\Windows 10\Desktop\progra I\primerprograma\bin\Debug\net6.0\primerprograma.runtimeconfig.json
+C:\Users\Windows 10\Desktop\progra I\primerprograma\bin\Debug\net6.0\primerprograma.dll
+C:\Users\Windows 10\Desktop\progra I\primerprograma\bin\Debug\net6.0\primerprograma.pdb
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.dll
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\refint\primerprograma.dll
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.pdb
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\primerprograma.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\progra I\primerprograma\obj\Debug\net6.0\ref\primerprograma.dll
